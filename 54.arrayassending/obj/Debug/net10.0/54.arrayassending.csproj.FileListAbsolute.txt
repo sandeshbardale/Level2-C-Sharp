@@ -1,0 +1,14 @@
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\54.arrayassending\bin\Debug\net10.0\54.arrayassending.exe
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\54.arrayassending\bin\Debug\net10.0\54.arrayassending.deps.json
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\54.arrayassending\bin\Debug\net10.0\54.arrayassending.runtimeconfig.json
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\54.arrayassending\bin\Debug\net10.0\54.arrayassending.dll
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\54.arrayassending\bin\Debug\net10.0\54.arrayassending.pdb
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\54.arrayassending\obj\Debug\net10.0\54.arrayassending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\54.arrayassending\obj\Debug\net10.0\54.arrayassending.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\54.arrayassending\obj\Debug\net10.0\54.arrayassending.AssemblyInfo.cs
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\54.arrayassending\obj\Debug\net10.0\54.arrayassending.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\54.arrayassending\obj\Debug\net10.0\54.arrayassending.dll
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\54.arrayassending\obj\Debug\net10.0\refint\54.arrayassending.dll
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\54.arrayassending\obj\Debug\net10.0\54.arrayassending.pdb
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\54.arrayassending\obj\Debug\net10.0\54.arrayassending.genruntimeconfig.cache
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\54.arrayassending\obj\Debug\net10.0\ref\54.arrayassending.dll

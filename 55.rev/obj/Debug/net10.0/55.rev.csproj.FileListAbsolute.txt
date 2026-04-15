@@ -1,0 +1,14 @@
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\55.rev\bin\Debug\net10.0\55.rev.exe
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\55.rev\bin\Debug\net10.0\55.rev.deps.json
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\55.rev\bin\Debug\net10.0\55.rev.runtimeconfig.json
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\55.rev\bin\Debug\net10.0\55.rev.dll
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\55.rev\bin\Debug\net10.0\55.rev.pdb
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\55.rev\obj\Debug\net10.0\55.rev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\55.rev\obj\Debug\net10.0\55.rev.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\55.rev\obj\Debug\net10.0\55.rev.AssemblyInfo.cs
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\55.rev\obj\Debug\net10.0\55.rev.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\55.rev\obj\Debug\net10.0\55.rev.dll
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\55.rev\obj\Debug\net10.0\refint\55.rev.dll
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\55.rev\obj\Debug\net10.0\55.rev.pdb
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\55.rev\obj\Debug\net10.0\55.rev.genruntimeconfig.cache
+C:\Users\asus\Documents\C#\practicals\c-practicals-main\level2\55.rev\obj\Debug\net10.0\ref\55.rev.dll
